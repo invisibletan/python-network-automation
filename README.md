@@ -1,4 +1,4 @@
-# python-network-automation
+# 🌏python-network-automation
 [![0-q-OYn-Vu-NWv-Kr-YO-h-H.jpg](https://i.postimg.cc/qMcJ5TBz/0-q-OYn-Vu-NWv-Kr-YO-h-H.jpg)](https://postimg.cc/XpJ6rtCb)
 
 ### การทดลองการทำ Python Network Automation โดยใช้ Library netmiko
@@ -33,7 +33,7 @@ Netmiko เป็น Softwere Packet สำหรับช่วยในกา�
 ## อาจารย์ที่ปรึกษา
 [![image.jpg](https://i.postimg.cc/Kvn93Zxc/image.jpg)](https://postimg.cc/Vdk93PJ2) | [![image.jpg](https://i.postimg.cc/FsgZsDV7/image.jpg)](https://postimg.cc/KRjL07V2)  |  [![image.jpg](https://i.postimg.cc/WzcGskDG/image.jpg)](https://postimg.cc/sQKQc14x) 
 |----- | ----- | ----- |
-รศ.ดร. โชติพัชร์ ภรณวลัย | ผศ.ดร. สุเมธ ประภาวัต |  ดร.ลภัส ประดิษฐ์ทัศนีย์ |
+| รศ.ดร. โชติพัชร์ ภรณวลัย | ผศ.ดร. สุเมธ ประภาวัต |  ดร.ลภัส ประดิษฐ์ทัศนีย์ |
 
 
 
