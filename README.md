@@ -1,1 +1,4 @@
 # python-network-automation
+[0-q-OYn-Vu-NWv-Kr-YO-h-H.jpg](https://postimg.cc/XpJ6rtCb)
+
+การทดลองการทำ Python Network Automation โดยใช้ Library netmiko
