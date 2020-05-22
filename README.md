@@ -1,4 +1,4 @@
-# 🌏python-network-automation
+# 🌏 python-network-automation 🌏
 [![0-q-OYn-Vu-NWv-Kr-YO-h-H.jpg](https://i.postimg.cc/qMcJ5TBz/0-q-OYn-Vu-NWv-Kr-YO-h-H.jpg)](https://postimg.cc/XpJ6rtCb)
 
 ### การทดลองการทำ Python Network Automation โดยใช้ Library netmiko
@@ -15,11 +15,11 @@ Netmiko เป็น Softwere Packet สำหรับช่วยในกา�
 
 
 
-## Links
+## 👀 Links 👀
 - Document [Click](https://docs.google.com/document/d/1I4SxJBc2LNUBdk7r_aQswfq3Rkdj5-S9vM7eCdGFkbc/edit)
 - Video
 
-## รายชื่อสมาชิก
+## 👨‍🎓 รายชื่อสมาชิก 👨‍🎓
 
 [![image.png](https://i.postimg.cc/sgLKt1Jc/image.png)](https://postimg.cc/rDSS4V30)  | [![image.png](https://i.postimg.cc/SN3M49wJ/image.png)](https://postimg.cc/XpKJcrNb)  |  [![image.png](https://i.postimg.cc/ZqhvBSYm/image.png)](https://postimg.cc/rDQw37tZ) | [![image.png](https://i.postimg.cc/qv2zd5s5/image.png)](https://postimg.cc/NKfg6bP6)  | [![image.png](https://i.postimg.cc/Njvjbk37/image.png)](https://postimg.cc/RNGmZKVN)
 ----- | ----- | ----- | ----- | -----
@@ -28,7 +28,7 @@ Netmiko เป็น Softwere Packet สำหรับช่วยในกา�
 
 
 
-## อาจารย์ที่ปรึกษา
+## 👨🏻‍🏫 อาจารย์ที่ปรึกษา 👨🏻‍🏫
 [![image.jpg](https://i.postimg.cc/Kvn93Zxc/image.jpg)](https://postimg.cc/Vdk93PJ2) | [![image.jpg](https://i.postimg.cc/FsgZsDV7/image.jpg)](https://postimg.cc/KRjL07V2)  |  [![image.jpg](https://i.postimg.cc/WzcGskDG/image.jpg)](https://postimg.cc/sQKQc14x) 
 |----- | ----- | ----- |
 | รศ.ดร. โชติพัชร์ ภรณวลัย | ผศ.ดร. สุเมธ ประภาวัต |  ดร.ลภัส ประดิษฐ์ทัศนีย์ |
