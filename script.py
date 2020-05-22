@@ -1,5 +1,5 @@
 import json
-import myfunction as fn
+import lib.myfunction as fn
 import netmiko
 import os
 import sys
@@ -42,7 +42,7 @@ for device in devices:
             print('Saving Backup ' + command, end='')
             with open(filename, 'w') as out_file:
                 out_file.write(connection.send_command(command) + '\n')
-        print('\nSaved Successfully')
+        print('Saved Successfully')
         connection.disconnect()
     except netmiko_exceptions as error:
         print('Failed to ', device['ip'], error)

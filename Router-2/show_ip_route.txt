@@ -12,8 +12,8 @@ Gateway of last resort is not set
       192.168.0.0/24 is variably subnetted, 2 subnets, 2 masks
 C        192.168.0.0/24 is directly connected, GigabitEthernet2/0
 L        192.168.0.2/32 is directly connected, GigabitEthernet2/0
-O     192.168.100.0/24 [110/2] via 192.168.0.1, 04:17:02, GigabitEthernet2/0
-O     192.168.150.0/24 [110/2] via 192.168.200.2, 01:01:19, GigabitEthernet3/0
+O     192.168.100.0/24 [110/2] via 192.168.0.1, 00:10:48, GigabitEthernet2/0
+O     192.168.150.0/24 [110/2] via 192.168.200.2, 00:07:07, GigabitEthernet3/0
       192.168.200.0/24 is variably subnetted, 2 subnets, 2 masks
 C        192.168.200.0/24 is directly connected, GigabitEthernet3/0
 L        192.168.200.1/32 is directly connected, GigabitEthernet3/0
