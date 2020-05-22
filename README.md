@@ -31,9 +31,9 @@ Netmiko เป็น Softwere Packet สำหรับช่วยในกา�
 นายสิรวิชญ์      โภคา          61070242
 
 ## อาจารย์ที่ปรึกษา
-[![image.jpg](https://i.postimg.cc/Kvn93Zxc/image.jpg)](https://postimg.cc/Vdk93PJ2) | Col2  |  Col3 | Col4
------ | ----- | ----- | ----- |
-Test1 | Test1 | Test1 | Test1 |
+[![image.jpg](https://i.postimg.cc/Kvn93Zxc/image.jpg)](https://postimg.cc/Vdk93PJ2) | [![image.jpg](https://i.postimg.cc/FsgZsDV7/image.jpg)](https://postimg.cc/KRjL07V2)  |  [![image.jpg](https://i.postimg.cc/WzcGskDG/image.jpg)](https://postimg.cc/sQKQc14x) |
+----- | ----- | ----- |
+Test1 | Test1 | Test1 |
 
 
 รศ.ดร. โชติพัชร์ ภรณวลัย
