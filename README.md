@@ -3,4 +3,6 @@
 
   การทดลองการทำ Python Network Automation โดยใช้ Library netmiko
   
-  
+ Netmiko คืออะไร 
+Netmiko เป็น Softwere Packet สำหรับช่วยในการเขียนสคริปต์ของภาษา Python
+
