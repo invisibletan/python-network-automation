@@ -25,6 +25,7 @@ for device in devices:
         print('-' * 70)
         print('Connecting to device:', device['ip'])
         connection = netmiko.ConnectHandler(**device)
+        connection.enable()
         newdir = connection.base_prompt
         try:
             os.mkdir(newdir)
@@ -38,8 +39,10 @@ for device in devices:
         for command in commands:
             filename = command.rstrip().replace(' ', '_') + '.txt'
             filename = os.path.join(newdir, filename)
+            print('Saving Backup ' + command, end='')
             with open(filename, 'w') as out_file:
                 out_file.write(connection.send_command(command) + '\n')
+        print('\nSaved Successfully')
         connection.disconnect()
     except netmiko_exceptions as error:
         print('Failed to ', device['ip'], error)
