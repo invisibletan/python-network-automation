@@ -15,7 +15,7 @@ Netmiko เป็น Softwere Packet สำหรับช่วยในกา�
 
 
 
-## 👀 Links 👀
+## 👉 Links 👈
 - Document [Click](https://docs.google.com/document/d/1I4SxJBc2LNUBdk7r_aQswfq3Rkdj5-S9vM7eCdGFkbc/edit)
 - Video
 
